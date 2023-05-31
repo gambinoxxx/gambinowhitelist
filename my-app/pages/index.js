@@ -210,12 +210,12 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./pepe.svg" />
+          <img className={styles.image} src="./pepe1.svg" />
         </div>
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by pepe league
+        Made with &#10084; by pepe
       </footer>
     </div>
   );
